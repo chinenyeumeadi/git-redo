@@ -1,2 +1,2 @@
-// git <Init git status git gitb/Init
+// git <Init git status git add . or git add index.css git stautus  and and another file it you add and check the stautus and git commit -m "my first commit" , git remote add origin then you open the https link and place it in the terminal close to git remote add origin, remote -v ,git push origin main gmgit gitb/Init
 // >
